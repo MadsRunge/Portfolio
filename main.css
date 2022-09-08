@@ -1,0 +1,89 @@
+body {
+    background-image: url("pexels-alex-andrews-861443.jpg");
+    height: 500px;
+    padding: 50px;
+
+
+}
+
+
+
+li {
+    color: white;
+    text-align: center;
+}
+
+.links{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+
+
+
+.head{
+    text-align: center;
+    color: white;
+    font-size: x-large;
+
+}
+
+.mainhead{
+    background-color: whitesmoke;
+    border: black solid;
+
+
+}
+h2 {
+
+    color: black;
+    text-align: center;
+    font-size: x-large;
+
+
+}
+.about{
+    background-color: whitesmoke;
+    text-align: center;
+    border: solid black;
+    height: 300px;
+    margin: 100px;
+    padding: 50px;
+}
+
+
+
+
+h1{
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+}
+#education li{
+    margin: 100px;
+    text-align: start;
+    font-size: x-large;
+
+}
+#work li{
+    text-align: start;
+    margin: 100px ;
+    font-size: x-large;
+}
+
+.ol {
+    display: flex;
+    justify-content: space-evenly;
+    width: 500px;
+    color: black;
+}
+
+.ol a {
+   list-style-type:none;
+    display: flex;
+    color: black;
+    justify-content: flex-start;
+    text-decoration: none;
+    font-size: large;
+
+}
